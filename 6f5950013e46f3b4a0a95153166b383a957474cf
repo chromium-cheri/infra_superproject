@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a0362bec_4faa8c1d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1560543
+      },
+      "writtenOn": "2023-05-26T23:05:55Z",
+      "side": 1,
+      "message": "let\u0027s have https://crrev.com/c/4568768 submitted before, otherwise we won\u0027t know if git submodules and DEPS diverge.",
+      "revId": "6f5950013e46f3b4a0a95153166b383a957474cf",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
