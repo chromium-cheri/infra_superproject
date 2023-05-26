@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5be17598_bdafd9fa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1237795
+      },
+      "writtenOn": "2023-05-26T21:23:12Z",
+      "side": 1,
+      "message": "I want to just add submodules here, then get this repo in codesearch, start setting up redirects.\nand then we can add .gitmodules for infra/infra later?",
+      "revId": "187d4f9e1d8e44608439cceb8f57f3237e3e9ffb",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
