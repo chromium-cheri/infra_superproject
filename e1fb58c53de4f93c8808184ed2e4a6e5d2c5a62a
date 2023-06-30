@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2046b71c_a7d3fe3d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1560543
+      },
+      "writtenOn": "2023-06-30T16:43:25Z",
+      "side": 1,
+      "message": "Filed https://crbug.com/1459638 to have presubmit catch this.",
+      "revId": "e1fb58c53de4f93c8808184ed2e4a6e5d2c5a62a",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
