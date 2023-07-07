@@ -10,30 +10,39 @@
 [submodule "infra_internal"]
 	path = infra_internal
 	url = https://chrome-internal.googlesource.com/infra/infra_internal.git
+    gclient-condition = checkout_internal
 [submodule "build_internal"]
 	path = build_internal
 	url = https://chrome-internal.googlesource.com/chrome/tools/build.git
+    gclient-condition = checkout_internal
 [submodule "puppet"]
 	path = puppet
 	url = https://chrome-internal.googlesource.com/infra/puppet.git
+    gclient-condition = checkout_internal
 [submodule "systems"]
 	path = systems
 	url = https://chrome-internal.googlesource.com/chrome-golo/chrome-golo.git
+    gclient-condition = checkout_internal
 [submodule "data/config"]
 	path = data/config
 	url = https://chrome-internal.googlesource.com/infradata/config.git
+    gclient-condition = checkout_internal
 [submodule "data/gae"]
 	path = data/gae
 	url = https://chrome-internal.googlesource.com/infradata/gae.git
+    gclient-condition = checkout_internal
 [submodule "data/k8s"]
 	path = data/k8s
 	url = https://chrome-internal.googlesource.com/infradata/k8s.git
+    gclient-condition = checkout_internal
 [submodule "data/rbe"]
 	path = data/rbe
 	url = https://chrome-internal.googlesource.com/infradata/rbe.git
+    gclient-condition = checkout_internal
 [submodule "release_scripts"]
 	path = release_scripts
 	url = https://chrome-internal.googlesource.com/chrome/tools/release/scripts.git
+    gclient-condition = checkout_internal
 [submodule "recipes-py"]
 	path = recipes-py
 	url = https://chromium.googlesource.com/infra/luci/recipes-py
