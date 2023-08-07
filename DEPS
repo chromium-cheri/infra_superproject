@@ -54,6 +54,11 @@ deps = {
     "condition": "checkout_internal",
   },
 
+  "data/cloud-run": {
+    "url": "{chrome_internal_git}/infradata/cloud-run.git@d0355ac9112a33abe5e4c7481718b49046a5198b",
+    "condition": "checkout_internal",
+  },
+
   # Not runtime dependencies, just included for ease of development.
   "data/config": {
     "url": "{chrome_internal_git}/infradata/config.git@c9d88a9e596018da3f4e21fc14d15d26df41e506",
