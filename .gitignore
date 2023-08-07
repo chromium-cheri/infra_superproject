@@ -6,7 +6,6 @@
 /build_internal
 /puppet
 /systems
-/data
 /release_scripts
 /gcloud
 /golang
