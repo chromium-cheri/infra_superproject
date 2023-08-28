@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "34b6c57b_edb1f97d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1596672
+      },
+      "writtenOn": "2023-08-28T11:20:47Z",
+      "side": 1,
+      "message": "https://eur-lex.europa.eu/",
+      "revId": "354a59fd47d7437340f39058b3b9bd871a9a75d0",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
