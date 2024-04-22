@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5be2c3f3_d6b36e7b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3318820
+      },
+      "writtenOn": "2024-04-22T22:10:48Z",
+      "side": 1,
+      "message": "Comment removed by: Josip Sokcevic; Reason: spam",
+      "revId": "09a7056c9a8fa1471621306151441a8c714b3709",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
