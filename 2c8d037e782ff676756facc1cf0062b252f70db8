@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c1874125_ba17f3c1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3622920
+      },
+      "writtenOn": "2024-09-17T01:06:27Z",
+      "side": 1,
+      "message": "APK download",
+      "revId": "2c8d037e782ff676756facc1cf0062b252f70db8",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
