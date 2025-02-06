@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "784baa7e_bc14fcdd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3875372
+      },
+      "writtenOn": "2025-02-06T11:59:04Z",
+      "side": 1,
+      "message": "Ferretería GG yhg",
+      "revId": "7ea70e548e6911c81de9d8a451958d0fd4516ccb",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
