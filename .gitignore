@@ -13,4 +13,6 @@
 /.gclient*
 /.gocache
 /.modcache
-.vscode
+/.editorconfig
+/.vscode
+/tags
