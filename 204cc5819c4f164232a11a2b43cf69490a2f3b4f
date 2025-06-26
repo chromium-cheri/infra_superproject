@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0751aac9_61727653",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4172304
+      },
+      "writtenOn": "2025-06-26T01:04:01Z",
+      "side": 1,
+      "message": "Patahilah akbar",
+      "revId": "204cc5819c4f164232a11a2b43cf69490a2f3b4f",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
