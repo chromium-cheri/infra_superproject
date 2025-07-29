@@ -98,6 +98,30 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "0ec80922_eabc3bcd",
+        "filename": ".gitmodules",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1147264
+      },
+      "writtenOn": "2025-07-29T18:03:26Z",
+      "side": 1,
+      "message": "the repo itself is already named \u0027chromium/src\u0027. Also, it already has `infra`. So, it\u0027d look like below.\n- `chromium/src/infra`.\n- `chromium/src/chromium_infra`.\n\nwhat do you think of `infra_libs/starlark`? Then,\n- `chromium/src/infra`\n- `chromium/src/infra_libs/starlark`",
+      "parentUuid": "b77676da_e21b4af9",
+      "range": {
+        "startLine": 5,
+        "startChar": 8,
+        "endLine": 5,
+        "endChar": 16
+      },
+      "revId": "7c1e333f4cf47cec28f5bcdfa5a2d24b74437e74",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "ca6300f9_dcfcff10",
         "filename": "/PATCHSET_LEVEL",
         "patchSetId": 1

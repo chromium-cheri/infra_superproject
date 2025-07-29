@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0cc3d48c_7bdb7d7d",
+        "filename": ".gitmodules",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1147264
+      },
+      "writtenOn": "2025-07-29T18:03:26Z",
+      "side": 1,
+      "message": "the repo itself is already named with \u0027chromium\u0027. Could this be placed under `infra`, like\nchromium/src/infra/;obs",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 22
+      },
+      "revId": "5df2850d3104e67376ca00ed0fbe361c8bef7bfd",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
