@@ -48,6 +48,30 @@
       "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
     },
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "a59a5632_8c31f75c",
+        "filename": ".gitmodules",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1170419
+      },
+      "writtenOn": "2025-07-29T17:50:05Z",
+      "side": 1,
+      "message": "Ideas include:\n- chromium_infra\n- chromium_starlark\n- chromium_lucicfg\n- starlark/chromium\n- infra_lucicfg/chromium\n- infra_starlark/chromium",
+      "parentUuid": "8c8197ff_c48bf15c",
+      "range": {
+        "startLine": 5,
+        "startChar": 8,
+        "endLine": 5,
+        "endChar": 16
+      },
+      "revId": "7c1e333f4cf47cec28f5bcdfa5a2d24b74437e74",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "ca6300f9_dcfcff10",
