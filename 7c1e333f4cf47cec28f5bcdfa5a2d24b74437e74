@@ -170,6 +170,30 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "e0579a2f_deb6528a",
+        "filename": ".gitmodules",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1147264
+      },
+      "writtenOn": "2025-07-29T18:46:09Z",
+      "side": 1,
+      "message": "oops. I\u0027m sorry; I didn\u0027t realize this is in the infra superproject; nvm then ;)",
+      "parentUuid": "a2e33aad_6b487b48",
+      "range": {
+        "startLine": 5,
+        "startChar": 8,
+        "endLine": 5,
+        "endChar": 16
+      },
+      "revId": "7c1e333f4cf47cec28f5bcdfa5a2d24b74437e74",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "ca6300f9_dcfcff10",
         "filename": "/PATCHSET_LEVEL",
         "patchSetId": 1
