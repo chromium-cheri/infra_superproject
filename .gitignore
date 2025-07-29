@@ -1,4 +1,5 @@
 /build
+/chromium_infra
 /infra
 /depot_tools
 /infra_internal
