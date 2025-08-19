@@ -6,7 +6,7 @@
 	url = https://chromium.googlesource.com/infra/chromium
 [submodule "infra"]
 	path = infra
-	url = https://chromium.googlesource.com/infra/infra
+	url = https://github.com/chromium-cheri/infra
 [submodule "recipes-py"]
 	path = recipes-py
 	url = https://chromium.googlesource.com/infra/luci/recipes-py
